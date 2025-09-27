@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "F:/Hackathon"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScript"
+	}
+}
